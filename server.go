@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/gocraft/web"
-	"github.com/gorilla/context"
+	"https://github.com/gocraft/web"
+	"https://github.com/gorilla/context"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/marketplace"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/settings"
+	"https://github.com/dnm2018/dnm2018p1/tree/master/modules/marketplace"
+	"https://github.com/dnm2018/dnm2018p1/tree/master/modules/settings"
 )
 
 func RunServer() {
