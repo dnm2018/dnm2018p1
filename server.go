@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"net/http"
 
-	"https://github.com/gocraft/web"
-	"https://github.com/gorilla/context"
+	"github.com/gocraft/web"
+	"github.com/gorilla/context"
 
-	"https://github.com/dnm2018/dnm2018p1/tree/master/modules/marketplace"
-	"https://github.com/dnm2018/dnm2018p1/tree/master/modules/settings"
+	"github.com/dnm2018/dnm2018p1/tree/master/modules/marketplace"
+	"github.com/dnm2018/dnm2018p1/tree/master/modules/settings"
 )
 
 func RunServer() {
