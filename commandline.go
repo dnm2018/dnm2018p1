@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"https://github.com/dnm2018/dnm2018p1/tree/master/modules/marketplace"
-	"https://github.com/dnm2018/dnm2018p1/tree/master/modules/util"
+	"github.com/dnm2018/dnm2018p1/tree/master/modules/marketplace"
+	"github.com/dnm2018/dnm2018p1/tree/master/modules/util"
 )
 
 func ManageRole(username, action, role string) {
