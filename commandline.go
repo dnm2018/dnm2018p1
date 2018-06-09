@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/marketplace"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/util"
+	"https://github.com/dnm2018/dnm2018p1/tree/master/modules/marketplace"
+	"https://github.com/dnm2018/dnm2018p1/tree/master/modules/util"
 )
 
 func ManageRole(username, action, role string) {
